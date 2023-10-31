@@ -157,6 +157,7 @@ $RECYCLE.BIN/
 *.msm
 *.msp
 *.mst
+*.pyc
 
 # Windows shortcuts
 *.lnk
