@@ -1,5 +1,5 @@
 # fifa_streamlit_app
-Small project using streamlit and pandas to create an app to display FIFA (17-23) stats.
+Small project using streamlit and pandas to create an app to display FIFA '23 stats.
 
 ![image](https://github.com/nicholasloureiro/fifa_streamlit_app/assets/105894972/355670c4-49ba-4d69-860d-e7d72739a92a)
 
